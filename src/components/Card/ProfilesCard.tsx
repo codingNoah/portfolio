@@ -1,5 +1,3 @@
-import { CiBasketball } from "react-icons/ci";
-import { FiTwitter } from "react-icons/fi";
 import Card from "../Card";
 import { Link } from "react-router-dom";
 import { FaLinkedinIn } from "react-icons/fa6";

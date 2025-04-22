@@ -1,7 +1,4 @@
 import Card from "../components/Card";
-import { FiCamera } from "react-icons/fi";
-import { PiPencilCircle } from "react-icons/pi";
-import { IoIosColorFilter } from "react-icons/io";
 import { MdDeveloperMode } from "react-icons/md";
 import { Link, useNavigate } from "react-router-dom";
 import ProfilesCard from "../components/Card/ProfilesCard";

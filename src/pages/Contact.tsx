@@ -2,9 +2,6 @@ import { FiPhone } from "react-icons/fi";
 import { GrLocation } from "react-icons/gr";
 import { MdOutlineEmail } from "react-icons/md";
 import ContactForm from "../components/ContactForm";
-import { CiBasketball } from "react-icons/ci";
-import { FiTwitter } from "react-icons/fi";
-import { BsInstagram } from "react-icons/bs";
 import { Link } from "react-router-dom";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa6";
 

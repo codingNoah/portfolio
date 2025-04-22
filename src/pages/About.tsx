@@ -1,7 +1,6 @@
 import ProfilesCard from "../components/Card/ProfilesCard";
 import LetsWorkCard from "../components/Card/LetsWorkCard";
 import CredentialsCard from "../components/Card/CredentialsCard";
-import laca from "../assets/images/laca.jpg";
 import yenoh from "../assets/images/yenoh.jpg";
 
 const About = () => {
