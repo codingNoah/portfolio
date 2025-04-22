@@ -79,13 +79,9 @@ const Home = () => {
             </div>
 
             <div data-aos="zoom-in" data-aos-delay="150" className="flex-1">
-              <Card
-                title="Projects"
-                description="SHOWCASE"
-                className="h-full"
-                onClick={() => navigate("/works")}
-              >
+              <Card title="Projects" description="SHOWCASE" className="h-full">
                 <img
+                  onClick={() => navigate("/works")}
                   decoding="async"
                   src="https://wpriverthemes.com/gridx/wp-content/uploads/2023/04/my-works.png"
                   alt=""
